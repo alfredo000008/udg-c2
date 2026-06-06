@@ -2,6 +2,8 @@ saldo_disponible = input("Ingresa tu saldo disponible: ")
 
 saldo_disponible = float(saldo_disponible)
 
+# Aquí puedes agregar tus gastos específicos
+
 transporte = 50.0
 comida = 30.0
 materiales = 25.0
